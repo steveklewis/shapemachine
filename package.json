@@ -1,0 +1,23 @@
+{
+  "name": "shapemachine",
+  "version": "0.1.0",
+  "description": "Monolithic application data layer for serving, storing, and securing JSONGraph-shaped data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steveklewis/shapemachine.git"
+  },
+  "keywords": [
+    "jsongraph",
+    "falcorjs"
+  ],
+  "author": "Steve K Lewis",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/steveklewis/shapemachine/issues"
+  },
+  "homepage": "https://github.com/steveklewis/shapemachine"
+}
